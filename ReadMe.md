@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌱 Meu nome é Gledson Gabriel, tenho 21 anos e esse é meu perfil!<br>💬 Graduado em Análise e desenvolvimento de sistemas.<br>💡 Curioso por novas tecnologias e frameworks<br>🎮 curto uns games!<br>🤝 Vamos colaborar? Fique à vontade para explorar meus repositórios e contribuir! 
+🌱 Meu nome é Gledson Gabriel, tenho 21 anos e esse é meu perfil!<br>💬 Graduado em Análise e desenvolvimento de sistemas.<br>💡 Curioso por novas tecnologias e frameworks<br>🎮 Curto uns games!<br>🤝 Vamos colaborar? Fique à vontade para explorar meus repositórios e contribuir! 
 
 
 ## 🌐 Socials:
